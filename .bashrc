@@ -1,9 +1,7 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
-<<<<<<< HEAD
 
-=======
 # comment out this echo if this bashrc file will sit in a remote server, this interferes with the "scp" command
 echo "Sawubona Buhle"
 >>>>>>> 11f6d374c6cba0344e94f2043aecb9ec4eb7f4bf
@@ -95,7 +93,6 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-<<<<<<< HEAD
 # some more ls aliases
 alias ll='ls -l'
 alias la='ls -A'
@@ -105,8 +102,6 @@ alias pd='pwd'
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
-=======
->>>>>>> 11f6d374c6cba0344e94f2043aecb9ec4eb7f4bf
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
