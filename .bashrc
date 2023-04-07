@@ -4,7 +4,7 @@
 
 # comment out this echo if this bashrc file will sit in a remote server, this interferes with the "scp" command
 echo "Sawubona Buhle"
->>>>>>> 11f6d374c6cba0344e94f2043aecb9ec4eb7f4bf
+
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
